@@ -30,5 +30,5 @@
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
 ![Jitsi](https://img.shields.io/badge/Jitsi-97979A.svg?style=for-the-badge&logo=Jitsi&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB.svg?style=for-the-badge&logo=GoDaddy&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<!-- ![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB.svg?style=for-the-badge&logo=GoDaddy&logoColor=white) -->
+<!-- ![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) -->
