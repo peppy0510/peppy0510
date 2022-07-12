@@ -24,11 +24,11 @@
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-<!-- ![AmazonEC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white) -->
-<!-- ![AmazonS3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white) -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
 ![Jitsi](https://img.shields.io/badge/Jitsi-97979A.svg?style=for-the-badge&logo=Jitsi&logoColor=white)
+<!-- ![AmazonEC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white) -->
+<!-- ![AmazonS3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white) -->
 <!-- ![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB.svg?style=for-the-badge&logo=GoDaddy&logoColor=white) -->
 <!-- ![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) -->
