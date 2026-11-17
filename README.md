@@ -27,7 +27,6 @@ Backend, web and mobile developer, 22 years, from design through operation.
 |  | <img src="icons/sublime.svg" width="24" alt=""> | **[PythonFixRequirements](https://github.com/peppy0510/PythonFixRequirements)** | Sorts and dedupes requirements.txt in Sublime Text |
 |  | <img src="icons/vscode.svg" width="24" alt=""> | **[vscode-theme-legacypack](https://github.com/peppy0510/vscode-theme-legacypack)** | VS Code colour theme |
 | **Python** | <img src="icons/python.svg" width="24" alt=""> | **[python-somedata](https://github.com/peppy0510/python-somedata)** | Dummy data generator |
-|  | <img src="icons/python.svg" width="24" alt=""> | **[python-dtruct](https://github.com/peppy0510/python-dtruct)** | C++ struct-like dictionary class |
 
 ### Background
 
@@ -83,7 +82,6 @@ Backend, web and mobile developer, 22 years, from design through operation.
 |  | <img src="icons/sublime.svg" width="24" alt=""> | **[PythonFixRequirements](https://github.com/peppy0510/PythonFixRequirements)** | Sublime Text 에서 requirements.txt 정렬·중복 제거 |
 |  | <img src="icons/vscode.svg" width="24" alt=""> | **[vscode-theme-legacypack](https://github.com/peppy0510/vscode-theme-legacypack)** | VS Code 색 테마 |
 | **파이썬** | <img src="icons/python.svg" width="24" alt=""> | **[python-somedata](https://github.com/peppy0510/python-somedata)** | 더미 데이터 생성기 |
-|  | <img src="icons/python.svg" width="24" alt=""> | **[python-dtruct](https://github.com/peppy0510/python-dtruct)** | C++ 구조체처럼 쓰는 딕셔너리 클래스 |
 
 ### 이력
 
