@@ -1,11 +1,10 @@
 ## Taehong Kim
 
-Backend, web and mobile developer, 22 years.
+Backend, web and mobile developer, 22 years, from design through operation.
 
-- Product development from design to operation: backend, web, mobile apps and the servers under them
-- An in-house layer on Django ORM, Sanic, React and Ionic, where a class name sets the table, API route, page path and selector
+- In-house framework layer on Django ORM, Sanic, React and Ionic: a class name sets the table, API route, page path and selector
 - Audio and media: tempo and key extraction, phase-vocoder time stretching, SVG score rendering, a VST sampler, audio fingerprinting, HLS and WebRTC pipelines for live, VOD and multi-view 4K
-- Services built for traffic spikes such as celebrity fan-meeting ticket openings, with nginx configs and deploy tooling written in-house, on-prem or cloud
+- High-traffic services such as ticket openings, with nginx configs and deploy tooling written in-house
 
 ### Projects
 
@@ -22,7 +21,6 @@ Most other repositories are small Windows utilities.
 
 - MS in multimedia signal processing
 - 3 patents (2 PCT), 4 papers, 12 government-funded R&D projects, 3 funding rounds
-- Started with BASIC on an Apple II, ran an MP3 download site in the late '90s, and worked on music and electronic instruments before studying acoustic signal processing
 
 **[muteklab.com](https://muteklab.com)**
 
@@ -44,12 +42,11 @@ Most other repositories are small Windows utilities.
 
 <br>
 
-백엔드·웹·모바일 개발 22년 차입니다.
+백엔드·웹·모바일 개발 22년 차, 설계부터 운영까지 맡습니다.
 
-- 설계부터 운영까지 맡는 제품 개발: 백엔드, 웹, 모바일 앱과 그 아래 서버
-- Django ORM, Sanic, React, Ionic 위에 직접 만든 층: 클래스 이름 하나로 테이블, API 경로, 화면 경로, 셀렉터가 정해짐
+- Django ORM, Sanic, React, Ionic 위에 직접 만든 프레임워크 층: 클래스 이름 하나로 테이블, API 경로, 화면 경로, 셀렉터가 정해짐
 - 오디오·미디어: 템포·조성 추출, Phase Vocoder 타임 스트레칭, SVG 악보 렌더링, VST 샘플러, 오디오 핑거프린팅, 라이브·VOD·다시점 4K 용 HLS·WebRTC 파이프라인
-- 셀럽 팬미팅 티켓 오픈처럼 트래픽이 한꺼번에 몰리는 서비스 구축·운영, nginx 설정과 배포 도구 직접 작성, 온프레미스·클라우드 모두
+- 티켓 오픈처럼 트래픽이 한꺼번에 몰리는 서비스 구축·운영, nginx 설정과 배포 도구 직접 작성
 
 ### 프로젝트
 
@@ -66,7 +63,6 @@ Most other repositories are small Windows utilities.
 
 - 멀티미디어 신호처리 석사
 - 특허 3건(PCT 2건), 논문 4편, 국가 R&D 과제 12건, 투자 유치 3회
-- Apple II BASIC 으로 시작, 90년대 말 MP3 다운로드 사이트 운영, 음악·전자 악기 작업을 거쳐 음향 신호처리 전공
 
 **[muteklab.com](https://muteklab.com)**
 
