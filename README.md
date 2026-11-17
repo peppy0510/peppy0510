@@ -2,9 +2,9 @@
 
 Backend, web and mobile developer, 22 years, from design through operation.
 
-- Framework: in-house layer on Django ORM, Sanic, React and Ionic, where a class name sets the table, API route, page path and selector
+- Framework: in-house full-stack framework on Django ORM, Sanic, React and Ionic
 - Audio and media: tempo and key extraction, time stretching, score rendering, VST sampler, audio fingerprinting, HLS and WebRTC streaming
-- Operations: high-volume traffic handling, service infrastructure (nginx, HAProxy, TLS, DNS), load testing
+- Operations: high-volume traffic handling, service infrastructure
 
 ### Projects
 
@@ -31,7 +31,7 @@ Backend, web and mobile developer, 22 years, from design through operation.
 ### Background
 
 - MS in multimedia signal processing
-- 3 patents (2 PCT), 4 papers, 12 government-funded R&D projects, 3 funding rounds
+- 3 patents (2 PCT), 4 papers, 12 government-funded R&D projects
 
 **[muteklab.com](https://muteklab.com)**
 
@@ -57,9 +57,9 @@ Backend, web and mobile developer, 22 years, from design through operation.
 
 백엔드·웹·모바일 개발 22년 차, 설계부터 운영까지 맡습니다.
 
-- 프레임워크: Django ORM, Sanic, React, Ionic 위 자체 층, 클래스 이름 하나로 테이블·API 경로·화면 경로·셀렉터 결정
+- 프레임워크: Django ORM, Sanic, React, Ionic 기반 자체 풀스택 프레임워크
 - 오디오·미디어: 템포·조성 추출, 타임 스트레칭, 악보 렌더링, VST 샘플러, 오디오 핑거프린팅, HLS·WebRTC 스트리밍
-- 운영: 대용량 트래픽 대응, 서비스 인프라 구축(nginx·HAProxy·인증서·DNS), 부하 테스트
+- 운영: 대용량 트래픽 대응, 서비스 인프라 구축
 
 ### 프로젝트
 
@@ -86,7 +86,7 @@ Backend, web and mobile developer, 22 years, from design through operation.
 ### 이력
 
 - 멀티미디어 신호처리 석사
-- 특허 3건(PCT 2건), 논문 4편, 국가 R&D 과제 12건, 투자 유치 3회
+- 특허 3건(PCT 2건), 논문 4편, 국가 R&D 과제 12건
 
 **[muteklab.com](https://muteklab.com)**
 
